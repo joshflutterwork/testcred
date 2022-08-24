@@ -1,16 +1,14 @@
 # testcreditbook
 
-A new Flutter project.
+A Flutter project with pokemon API
 
-## Getting Started
+Dev using packages : 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  flutter_bloc: ^8.0.1
+  equatable: ^2.0.3
+  dio: ^4.0.4
+  pdf: ^3.8.1
+  open_file: ^3.2.1
+  path_provider: ^2.0.11
+  screenshot: ^1.2.3
+  share_plus: ^4.0.10+1
